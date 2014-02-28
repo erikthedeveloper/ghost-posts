@@ -53,6 +53,7 @@ Some Common Breakpoints *as used within Bootstrap 3*
 *
 *                     ## Some Links for Thought
 *                     * [Fluid and hide/show (no judgements)](http://hardwoodindustryproducts.com/)
+*                     * [Breakpoints and More!](http://cudemo.applicanttrack.com/jobs/)
 *                     * [Better Example: Yummly](http://www.yummly.com/)
 *                     * [Whoops.. Broken Responsive](http://ultraspire.com/)
 *                     * [Responsive.is](http://responsive.is/)
