@@ -1,4 +1,3 @@
-
 te: This article is undergoing development. Read at your own risk.*
 ## In a Nutshell
 
@@ -53,6 +52,9 @@ Some Common Breakpoints *as used within Bootstrap 3*
 *                     ---
 *
 *                     ## Some Links for Thought
+*                     * [Fluid and hide/show (no judgements)](http://hardwoodindustryproducts.com/)
+*                     * [Better Example: Yummly](http://www.yummly.com/)
+*                     * [Whoops.. Broken Responsive](http://ultraspire.com/)
 *                     * [Responsive.is](http://responsive.is/)
 *                     * [Web Designer Depot on...](http://www.webdesignerdepot.com/2013/01/the-device-agnostic-approach-to-responsive-design/)
 *                     * [Smashing Magazine on...](http://coding.smashingmagazine.com/2012/03/22/device-agnostic-approach-to-responsive-web-design/)
